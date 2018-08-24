@@ -1,5 +1,4 @@
-## Index of source code examples
-
+## Index of source code examples:
 
 \Barcode in CrystalReports Application (C# 2010)
 \Barcode in CrystalReports Application (C# 2015)
